@@ -22,13 +22,7 @@ const IncredibleHulkSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/161/161178.gif"
-          alt="hulk2"
-        />
-      ),
+  
       title1: "Incredible Hulk",
       title2: "@HulkSmash",
       title3: "Maybe I won't smash this.",
@@ -43,13 +37,7 @@ const IncredibleHulkSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/161/161178.gif"
-          alt="hulk2"
-        />
-      ),
+   
       title1: "Incredible Hulk",
       title2: "@HulkSmash",
       title3: "Maybe I won't smash this.",
@@ -64,13 +52,7 @@ const IncredibleHulkSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/161/161178.gif"
-          alt="hulk2"
-        />
-      ),
+  
       title1: "Incredible Hulk",
       title2: "@HulkSmash",
       title3: "Maybe I won't smash this.",
@@ -85,13 +67,7 @@ const IncredibleHulkSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/161/161178.gif"
-          alt="hulk2"
-        />
-      ),
+    
       title1: "Incredible Hulk",
       title2: "@HulkSmash",
       title3: "Maybe I won't smash this.",

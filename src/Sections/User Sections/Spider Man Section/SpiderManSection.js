@@ -22,13 +22,7 @@ const SpiderManSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/155/15523.gif"
-          alt="spidey2"
-        />
-      ),
+     
       title1: "Spider Man",
       title2: "@SpiderMan",
       title3: "With great power comes great responsibility.",
@@ -43,13 +37,7 @@ const SpiderManSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/155/15523.gif"
-          alt="spidey2"
-        />
-      ),
+     
       title1: "Spider Man",
       title2: "@SpiderMan",
       title3: "With great power comes great responsibility.",
@@ -64,13 +52,7 @@ const SpiderManSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/155/15523.gif"
-          alt="spidey2"
-        />
-      ),
+     
       title1: "Spider Man",
       title2: "@SpiderMan",
       title3: "With great power comes great responsibility.",
@@ -85,13 +67,7 @@ const SpiderManSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://giffiles.alphacoders.com/155/15523.gif"
-          alt="spidey2"
-        />
-      ),
+      
       title1: "Spider Man",
       title2: "@SpiderMan",
       title3: "With great power comes great responsibility.",

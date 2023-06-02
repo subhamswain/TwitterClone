@@ -20,13 +20,7 @@ const MiddleHomeUserTweetBox = () => {
         alt="drstrange1"
       />
     ),
-    photo2: (
-      <img
-        style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-        src="https://giffiles.alphacoders.com/214/214285.gif"
-        alt="drstrange2"
-      />
-    ),
+  
     title1: "Sushant Hire",
     title2: "@reachbarsonist",
     title3: "",

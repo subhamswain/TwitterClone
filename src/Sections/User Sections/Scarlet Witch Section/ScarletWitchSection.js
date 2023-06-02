@@ -22,13 +22,7 @@ const ScarletWitchSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://media0.giphy.com/media/1Euph36tcV2KmmgGEC/giphy.gif"
-          alt="scarletwitch2"
-        />
-      ),
+    
       title1: "Scarlet Witch",
       title2: "@TheScarletWitch",
       title3: "I have everything under control.",
@@ -43,13 +37,7 @@ const ScarletWitchSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://media0.giphy.com/media/1Euph36tcV2KmmgGEC/giphy.gif"
-          alt="scarletwitch2"
-        />
-      ),
+    
       title1: "Scarlet Witch",
       title2: "@TheScarletWitch",
       title3: "I have everything under control.",
@@ -64,13 +52,7 @@ const ScarletWitchSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://media0.giphy.com/media/1Euph36tcV2KmmgGEC/giphy.gif"
-          alt="scarletwitch2"
-        />
-      ),
+  
       title1: "Scarlet Witch",
       title2: "@TheScarletWitch",
       title3: "I have everything under control.",
@@ -85,13 +67,7 @@ const ScarletWitchSection = () => {
           />
         </Link>
       ),
-      photo2: (
-        <img
-          style={{ width: "85%", height: "auto", borderRadius: "10px" }}
-          src="https://media0.giphy.com/media/1Euph36tcV2KmmgGEC/giphy.gif"
-          alt="scarletwitch2"
-        />
-      ),
+     
       title1: "Scarlet Witch",
       title2: "@TheScarletWitch",
       title3: "I have everything under control.",
